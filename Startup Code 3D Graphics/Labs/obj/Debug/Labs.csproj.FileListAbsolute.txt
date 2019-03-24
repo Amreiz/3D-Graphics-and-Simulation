@@ -1,0 +1,116 @@
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+D:\Suma's Work\2nd Year\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+\\adir.hull.ac.uk\home\528\528138\2nd Year\New folder\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+G:\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+G:\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+G:\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+G:\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+G:\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.frag
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vLighting.frag
+G:\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vLighting.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.frag
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+\\adir.hull.ac.uk\home\528\528138\2nd Year\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vLighting.frag
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.frag
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+\\adir.hull.ac.uk\home\528\528138\Desktop\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
